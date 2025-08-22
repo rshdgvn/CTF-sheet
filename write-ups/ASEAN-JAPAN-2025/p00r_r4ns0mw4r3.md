@@ -16,15 +16,15 @@ Your customer has fallen victim to ransomware and is seeking your assistance to 
 
 1. **Received ZIP File:**
    ```bash
-   $ unzip p00r_r4ns0mw4r3.zip
+    $ unzip p00r_r4ns0mw4r3.zip
     Archive: extracting p00r_r4ns0mw4r3.zip
       creating: forensic-04/
       extracting: forensic-04/flag.pdf.wcrypt
       inflating: forensic-04/memdump_cmdline_retrieve.txt
 
-  $ cd forensic-04
-  $ ls
-  flag.pdf.wcrypt memdump_cmdline_retrieve.txt
+    $ cd forensic-04
+    $ ls
+    flag.pdf.wcrypt memdump_cmdline_retrieve.txt
   ```
 
    - Unzipped the provided file, discovering two files.
@@ -36,7 +36,7 @@ Your customer has fallen victim to ransomware and is seeking your assistance to 
     Microsoft Windows [Version 10.0.17763.3887]
     (c) 2018 Microsoft Corporation. All rights reserved.
     C:\Users\Administrator\>cd Downloads
-    Cloning into 'm4w3rk-CTC
+    Cloning into 'm4w3rk-CTC' ...
     C:\Users\Administrator\Downloads git clone https://github.com/4ss3mbl3rV/m4w3rk-CTC.git
     remote: Enumerating objects: 18, done.
     remote: Counting objects: 100% (16/18), done.
@@ -137,7 +137,7 @@ Your customer has fallen victim to ransomware and is seeking your assistance to 
 
 5. **Decrypted `flag.pdf.wcrypt`:**
   ```bash
-  $ python3 decrypt.py
+    $ python3 decrypt.py
   ```
 
    - Ran `decrypt.py`, successfully obtaining `flag.pdf`.
@@ -145,7 +145,5 @@ Your customer has fallen victim to ransomware and is seeking your assistance to 
 6. **Opened `flag.pdf`:**
    - Verified the presence of the flag inside the decrypted PDF.
 
----
    **Flag Captured!**
 flag{29fb28c1181de53309b8580906afedc9}
-```
