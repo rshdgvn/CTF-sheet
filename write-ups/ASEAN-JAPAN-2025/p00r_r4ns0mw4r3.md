@@ -15,7 +15,7 @@ Your customer has fallen victim to ransomware and is seeking your assistance to 
 ## Solving the Challenge
 
 1. **Received ZIP File:**
-   ```bash
+  ```bash
     $ unzip p00r_r4ns0mw4r3.zip
     Archive: extracting p00r_r4ns0mw4r3.zip
       creating: forensic-04/
@@ -27,8 +27,8 @@ Your customer has fallen victim to ransomware and is seeking your assistance to 
     flag.pdf.wcrypt memdump_cmdline_retrieve.txt
   ```
 
-   - Unzipped the provided file, discovering two files.
-   - Encountered `flag.pdf.wcrypt`, which was corrupted and encrypted.
+  - Unzipped the provided file, discovering two files.
+  - Encountered `flag.pdf.wcrypt`, which was corrupted and encrypted.
 
 2. **Analyzed `memdump_cmdline_retrieve.txt`:**
   ```bash
