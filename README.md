@@ -1,5 +1,7 @@
 # CTF Sheet
 
+⚠️ **Note: This repository is just starting and still in progress.**
+
 A personal hub for Capture The Flag (CTF) challenges.  
 This repository contains notes, writeups, and cheatsheets to help with solving CTF problems and learning cybersecurity concepts.
 
