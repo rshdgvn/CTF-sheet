@@ -145,5 +145,6 @@ Your customer has fallen victim to ransomware and is seeking your assistance to 
 6. **Opened `flag.pdf`:**
    - Verified the presence of the flag inside the decrypted PDF.
 
-   **Flag Captured!**
-flag{29fb28c1181de53309b8580906afedc9}
+
+## Flag Captured!  
+||flag{29fb28c1181de53309b8580906afedc9}||
