@@ -2,6 +2,22 @@
 
 A full reference for **tools, commands, and techniques** used in CTF Forensics challenge
 
+---
+
+## ⚡ Quick Tips
+
+- Always **make a copy** of the challenge file before modifying it.  
+- Check **file type & metadata first** (`file`, `exiftool`).  
+- Run **strings + binwalk** early, they reveal a lot quickly.  
+- Try common **encodings** (Base64, hex, binary, ROT13).  
+- Look for **hidden/embedded files** (append data, ZIP inside image).  
+- Use **CyberChef** for weird encodings, magic bytes, or conversions.  
+- In PCAPs, start with **Follow TCP Stream** (Wireshark) or `tcpflow`.  
+- In memory dumps, dump processes & search for “flag”.  
+- Flags are often in **metadata, LSB stego, or leftover space**.  
+- Automate repetitive checks with small scripts.  
+
+---
 
 # 🔍 File Analysis
 
