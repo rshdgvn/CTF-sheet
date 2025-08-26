@@ -1,10 +1,10 @@
-# 🕵️‍♂️ CTF Practice Platforms
+# CTF Practice Platforms
 
 A curated list of **websites & platforms** for learning and practicing Capture the Flag challenges.
 
 ---
 
-## 🌍 General CTF Platforms
+## General CTF Platforms
 - [**CTFtime**](https://ctftime.org/) — Aggregator of upcoming/writing CTFs worldwide. The main hub.  
 - [**HackTheBox (HTB)**](https://www.hackthebox.com/) — Hands-on labs, challenges (web, pwn, crypto, forensic, reversing).  
 - [**TryHackMe**](https://tryhackme.com/) — Beginner-friendly labs & rooms for security practice.  
@@ -15,7 +15,7 @@ A curated list of **websites & platforms** for learning and practicing Capture t
 
 ---
 
-## 🔍 Forensics-Focused Platforms
+## Forensics-Focused Platforms
 - [**CyberDefenders**](https://cyberdefenders.org/) — Digital forensics & incident response (DFIR) labs.  
 - [**BlueTeamLabs**](https://blueteamlabs.online/) — Defensive security & forensic-oriented exercises.  
 - [**Malware Traffic Analysis**](https://www.malware-traffic-analysis.net/) — PCAP analysis challenges.  
@@ -24,7 +24,7 @@ A curated list of **websites & platforms** for learning and practicing Capture t
 
 ---
 
-## 💻 Pwn, Reverse Engineering & Crypto
+## Pwn, Reverse Engineering & Crypto
 - [**Crackmes.one**](https://crackmes.one/) — Reverse engineering binaries.  
 - [**Reversing.Kr**](http://reversing.kr/) — Classic reversing challenges.  
 - [**CryptoHack**](https://cryptohack.org/) — Pure cryptography-based CTFs.  
@@ -34,7 +34,7 @@ A curated list of **websites & platforms** for learning and practicing Capture t
 
 ---
 
-## 🌐 Web & Bug-Bounty Style Platforms
+## Web & Bug-Bounty Style Platforms
 - [**PortSwigger Web Security Academy**](https://portswigger.net/web-security) — Best free platform for web hacking.  
 - [**Hacker101 CTF**](https://ctf.hacker101.com/) — Bug bounty style CTF by HackerOne.  
 - [**OverTheWire (Bandit, Narnia, etc.)**](https://overthewire.org/wargames/) — Unix/web-based wargames for hacking fundamentals.  
@@ -43,14 +43,14 @@ A curated list of **websites & platforms** for learning and practicing Capture t
 
 ---
 
-## 🛠 Extra Learning & Challenge Repositories
+## Extra Learning & Challenge Repositories
 - [**Awesome CTF**](https://github.com/apsdehal/awesome-ctf) — Curated list of CTF tools & platforms.  
 - [**Vulnhub**](https://www.vulnhub.com/) — Download vulnerable machines for local practice.  
 - [**Reverse Engineering Challenges Repo**](https://github.com/ctfs) — Collection of past CTF challenges.  
 
 ---
 
-⚡ Pro tip:  
+Tips:  
 - Start with **PicoCTF + CTFlearn** for basics.  
 - Move to **Root-Me + HTB + TryHackMe** for real scenarios.  
 - Grind **CryptoHack + pwnable.kr** for deeper skills.  
