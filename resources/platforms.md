@@ -5,11 +5,11 @@ A curated list of **websites & platforms** for learning and practicing Capture t
 ---
 
 ## General CTF Platforms
+- [**PicoCTF**](https://picoctf.org/) — Beginner/intermediate CTF by Carnegie Mellon. Very good for fundamentals.  
+- [**CTFlearn**](https://ctflearn.com/) — Free challenges, community-driven.  
 - [**CTFtime**](https://ctftime.org/) — Aggregator of upcoming/writing CTFs worldwide. The main hub.  
 - [**HackTheBox (HTB)**](https://www.hackthebox.com/) — Hands-on labs, challenges (web, pwn, crypto, forensic, reversing).  
 - [**TryHackMe**](https://tryhackme.com/) — Beginner-friendly labs & rooms for security practice.  
-- [**PicoCTF**](https://picoctf.org/) — Beginner/intermediate CTF by Carnegie Mellon. Very good for fundamentals.  
-- [**CTFlearn**](https://ctflearn.com/) — Free challenges, community-driven.  
 - [**Root-Me**](https://www.root-me.org/) — Classic platform with challenges on almost every domain (forensics, rev, crypto).  
 - [**Ringzer0Team**](https://ringzer0ctf.com/) — Cool coding, crypto, and web exploitation challenges.  
 
