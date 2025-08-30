@@ -5,7 +5,7 @@ A curated list of YouTube tutorials to help you **get started with Cybersecurity
 ---
 
 ## Installing Kali Linux
-- [Install Kali Linux on VirtualBox (Step by Step)](https://www.youtube.com/watch?v=Z5v1RTq1L3I)  
+- [Install Kali Linux on VirtualBox (Step by Step)](https://youtu.be/wCEPusruqQM?si=MeMafYbOr7waMqqs)  
 ---
 
 ## Basic Kali Linux Commands
