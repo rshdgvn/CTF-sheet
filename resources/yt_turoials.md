@@ -9,14 +9,14 @@ A curated list of YouTube tutorials to help you **get started with Cybersecurity
 ---
 
 ## Basic Kali Linux Commands
-- [Essential Kali Linux Commands for Beginners](https://www.youtube.com/watch?v=R8zU-nS8Qj8)  
+- [Essential Kali Linux Commands for Beginners](https://www.youtube.com/watch?v=R8zU-nS8Qj8](https://youtu.be/Xhd7uh_keio?si=cxjxciHvGINA2ZEj))  
 - [Linux Command Line for Hackers (Kali Tutorial)](https://www.youtube.com/watch?v=IVquJh3DXUA)  
-- [Top 25 Kali Linux Commands](https://www.youtube.com/watch?v=9sGgNpA8FYU)  
 
 ---
 
 ## 15 Hours Ethical Hacking Course
-- [Ethical Hacking Full Course for Beginners (15 Hours)](https://www.youtube.com/watch?v=3Kq1MIfTWCE)  
+- [Ethical Hacking Full Course for Beginners (15 Hours) Part 1](https://www.youtube.com/watch?v=3Kq1MIfTWCE](https://youtu.be/3FNYvj2U0HM?si=g-gJokD24yJyVmfq))  
+- [Ethical Hacking Full Course for Beginners (15 Hours) Part 2](https://www.youtube.com/watch?v=3Kq1MIfTWCE](https://youtu.be/3FNYvj2U0HM?si=g-gJokD24yJyVmfq](https://youtu.be/sH4JCwjybGs?si=Zp6l_TO-gu7K7hvt)))  
 
 **Part 1 – Basics**
 - Introduction to Ethical Hacking  
