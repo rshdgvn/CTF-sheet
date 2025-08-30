@@ -39,14 +39,13 @@ A curated list of YouTube tutorials to help you **get started with Cybersecurity
 ---
 
 ## CTF Walkthrough Playlists
-- [TryHackMe Walkthroughs (CTF Rooms)](https://www.youtube.com/playlist?list=PLBf0hzazHTGNHsdR_0KxZ8T1N1t1Y3ZbD)  
-- [HackTheBox Walkthroughs (CTF Machines)](https://www.youtube.com/playlist?list=PLidcsTyj9JXK2ZCiMZ4HMc6NFeMQFZJlY)  
-- [PicoCTF Challenge Solutions](https://www.youtube.com/playlist?list=PLidcsTyj9JXIBqEftOjWs7UJYqGC0Jv0K)  
+- [PicoCTF Challenge Solutions](https://youtube.com/playlist?list=PL1H1sBF1VAKUbRWMCzEBi61Z_7um7V5Sd&si=eCdEy20MsWlrzyR5)  
+- [CTFlearn Challenge Solutions](https://www.youtube.com/playlist?list=PLUrAjkLbvTpKlzIrIUa0fV1iDWqk1_Kfv)  
 
 ---
 
 ## Recommended Next Steps
-- Practice daily on **TryHackMe** & **HackTheBox**  
+- Practice daily on **PicoCTF** & **CTFlearn**  
 - Keep a **CTF Notes/Writeups repo**  
 - Join Discord/Reddit CTF communities for teamwork & tips  
 
