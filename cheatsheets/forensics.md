@@ -1,10 +1,10 @@
-# 🕵️ Forensics CTF Cheatsheet
+# Forensics CTF Cheatsheet
 
 A full reference for **tools, commands, and techniques** used in CTF Forensics challenge
 
 ---
 
-## ⚡ Quick Tips
+## Quick Tips
 
 - Always **make a copy** of the challenge file before modifying it.  
 - Check **file type & metadata first** (`file`, `exiftool`).  
@@ -19,7 +19,7 @@ A full reference for **tools, commands, and techniques** used in CTF Forensics c
 
 ---
 
-# 🔍 File Analysis
+# File Analysis
 
 Basic commands to identify, analyze, and extract information from files.
 
@@ -38,7 +38,7 @@ exiv2 image.jpg                  # Another metadata parser
 
 ---
 
-# 🎨 Steganography
+# Steganography
 
 Hidden data in images, audio, or video.
 
@@ -54,7 +54,7 @@ audacity                           # Inspect audio spectrograms
 
 ---
 
-#  💾 Disk & Filesystem Forensics
+#  Disk & Filesystem Forensics
 
 ```bash
 mmls disk.img                      # Partition layout
@@ -68,7 +68,7 @@ bulk_extractor disk.img -o output  # Slack space & carving:
 
 ---
 
-# 🧠 Memory Forensics
+# Memory Forensics
 
 Using Volatility3:
 
@@ -84,7 +84,7 @@ strings memdump.raw | grep -i "flag"     # Quick Search
 
 ---
 
-# 🌐 Network / PCAP Analysis
+# Network / PCAP Analysis
 
 Wireshark/Tshark
 
@@ -105,7 +105,7 @@ tshark -r cap.pcap -T fields -e dns.qry.name
 ```
 ---
 
-# 🗂️ Logs & Text
+# Logs & Text
 
 ```bash
 grep -i "flag" logfile.log
@@ -117,7 +117,7 @@ echo "68656c6c6f" | xxd -r -p
 
 ---
 
-# 🛠️ Useful Misc Tools
+# Useful Misc Tools
 
 - **hashcat / john** → crack hashes and passwords  
   ```bash
