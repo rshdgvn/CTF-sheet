@@ -15,8 +15,8 @@ A curated list of YouTube tutorials to help you **get started with Cybersecurity
 ---
 
 ## 15 Hours Ethical Hacking Course
-- [Ethical Hacking Full Course for Beginners (15 Hours) Part 1](https://www.youtube.com/watch?v=3Kq1MIfTWCE](https://youtu.be/3FNYvj2U0HM?si=g-gJokD24yJyVmfq))  
-- [Ethical Hacking Full Course for Beginners (15 Hours) Part 2](https://www.youtube.com/watch?v=3Kq1MIfTWCE](https://youtu.be/3FNYvj2U0HM?si=g-gJokD24yJyVmfq](https://youtu.be/sH4JCwjybGs?si=Zp6l_TO-gu7K7hvt)))  
+- [Ethical Hacking Full Course for Beginners (15 Hours) Part 1](https://youtu.be/3FNYvj2U0HM?si=thvcaB75QrsGiY7b)  
+- [Ethical Hacking Full Course for Beginners (15 Hours) Part 2](https://youtu.be/sH4JCwjybGs?si=LbA2KW6Q3i8liBXv)  
 
 **Part 1 – Basics**
 - Introduction to Ethical Hacking  
