@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 # YouTube Tutorials for CTF & Cybersecurity
+=======
+<<<<<<< HEAD
+# YouTube Tutorials for CTF & Cybersecurity  
+=======
+# YouTube Tutorials for CTF & Cybersecurity
+>>>>>>> 9b9e2dd (disko-1)
+>>>>>>> 07b105d (Disko 1)
 
 A curated list of YouTube tutorials to help you **get started with Cybersecurity, Ethical Hacking, and Capture the Flag (CTF) challenges**.  
 

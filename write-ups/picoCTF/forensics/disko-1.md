@@ -1,10 +1,8 @@
 # DISKO-1 — Writeup
 
-**Author:** Darkraicg492
-**Writeup by:** Rasheed Gavin (or your name)
+**Writeup by:** Rasheed Gavin 
 **Challenge:** DISKO 1
-**Difficulty:** (fill in)
-**Category:** Forensics / Disk image
+**Category:** Forensics
 
 ---
 
