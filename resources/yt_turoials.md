@@ -1,4 +1,4 @@
-# 📺 YouTube Tutorials for CTF & Cybersecurity
+# YouTube Tutorials for CTF & Cybersecurity
 
 A curated list of YouTube tutorials to help you **get started with Cybersecurity, Ethical Hacking, and Capture the Flag (CTF) challenges**.  
 
